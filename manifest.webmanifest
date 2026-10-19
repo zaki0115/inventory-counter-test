@@ -1,0 +1,1 @@
+{"name":"棚卸しカウンター Ver.2.6","short_name":"棚卸カウンター","description":"棚・段・年月別にオフライン計数し、確定時に共有する棚卸しカウンター","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f7fb","theme_color":"#172b4d","icons":[{"src":"icon.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}]}
